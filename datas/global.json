@@ -1,1495 +1,1495 @@
 {
-   "meta":{
-      "title":"The Fun and Fast Way &amp; to build a web fits your needs",
-      "description":"I have seen many storms in my life. Most storms have caught me by surprise, so I had to learn very quickly to look further and understand that I am not capable of controlling the weather, to exercise the art of patience and to respect the fury of nature. Paulo Coelho",
-      "share":"Share"
-   },
-   "nav":[
-      {
-         "label":"Home",
-         "route":"#home"
-      },
-      {
-         "label":"Online monitoring",
-         "route":"#online-monitoring"
-      },
-      {
-         "label":"Our services",
-         "route":"#services"
-      },
-      {
-         "label":"Our team",
-         "route":"#team"
-      },
-      {
-         "label":"Case Studies",
-         "route":"#case-studies"
-      },
-      {
-         "label":"Contact",
-         "route":"#contact-us"
+  "meta": {
+    "title": "The Fun and Fast Way &amp; to build a web fits your needs",
+    "description": "I have seen many storms in my life. Most storms have caught me by surprise, so I had to learn very quickly to look further and understand that I am not capable of controlling the weather, to exercise the art of patience and to respect the fury of nature. Paulo Coelho",
+    "share": "Share"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "route": "#home"
+    },
+    {
+      "label": "Online monitoring",
+      "route": "#online-monitoring"
+    },
+    {
+      "label": "Our services",
+      "route": "#services"
+    },
+    {
+      "label": "Our team",
+      "route": "#team"
+    },
+    {
+      "label": "Case Studies",
+      "route": "#case-studies"
+    },
+    {
+      "label": "Contact",
+      "route": "#contact-us"
+    }
+  ],
+  "lang": {
+    "en": "https:\/\/runesam.github.io\/",
+    "fr": "https:\/\/runesam.github.io\/"
+  },
+  "labelMentions": "Legals",
+  "socials": {
+    "twitter": {
+      "title": "Follow us on Twitter",
+      "link": "https:\/\/twitter.com\/reputationsquad"
+    },
+    "facebook": {
+      "title": "Follow us on Facebook ",
+      "link": "https:\/\/www.facebook.com\/ReputationSquad"
+    },
+    "linkedin": {
+      "title": "Follow us on LinkedIn ",
+      "link": "https:\/\/www.linkedin.com\/company\/reputation-squad"
+    },
+    "googleplus": {
+      "title": "Follow us on Google+",
+      "link": "https:\/\/plus.google.com\/+ReputationsquadFr"
+    }
+  },
+  "ui": {
+    "btnCornerRight": "Get a quote",
+    "btnScroll": "Scroll",
+    "btnNext": "Suivant"
+  },
+  "equipeNav": [
+    {
+      "label": "Account directors",
+      "route": "http:\/\/veille.reputationsquad.com\/datas\/media\/julien-tissandier.jpg"
+    },
+    {
+      "label": "Monitoring",
+      "route": "http:\/\/veille.reputationsquad.com\/datas\/media\/armand-folton.jpg"
+    },
+    {
+      "label": "Experts",
+      "route": "http:\/\/veille.reputationsquad.com\/datas\/media\/valentin-grimaud.jpg"
+    },
+    {
+      "label": "Digital Strategy",
+      "route": "http:\/\/veille.reputationsquad.com\/datas\/media\/harith-shahad.jpg"
+    },
+    {
+      "label": "Social media \/ RP",
+      "route": "http:\/\/veille.reputationsquad.com\/datas\/media\/olivia-michel.jpg"
+    },
+    {
+      "label": "Webdev \/ R&D",
+      "route": "http:\/\/veille.reputationsquad.com\/datas\/media\/neil-aronson.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": 0,
+      "name": "section-home",
+      "class": "js-section c-section--dark u-viewport-fit u-align-center",
+      "bodyClass": "is-black is-quote",
+      "currentClass": "",
+      "route": "home",
+      "content": {
+        "title": "<span class='is-anim-t-0 is-anim-b-2'>my name<\/span><span class='is-anim-t-1 is-anim-b-3'>is SAM \"& I like to think\"<\/span><span class='is-anim-t-1 is-anim-b-4'>I'm javascript developer<\/span>",
+        "desc": "I don't have that huge number of projects or even huge projects to be proud of, but I can tell I am proud of how I got to learn stuff in very short time. though I don't really believe in long experience as much as I believe in hard smart work on improving skills.",
+        "label": "Next"
       }
-   ],
-   "lang":{
-      "en":"http:\/\/monitoring.reputationsquad.com\/",
-      "fr":"http:\/\/veille.reputationsquad.com\/"
-   },
-   "labelMentions":"Legals",
-   "socials":{
-      "twitter":{
-         "title":"Follow us on Twitter",
-         "link":"https:\/\/twitter.com\/reputationsquad"
-      },
-      "facebook":{
-         "title":"Follow us on Facebook ",
-         "link":"https:\/\/www.facebook.com\/ReputationSquad"
-      },
-      "linkedin":{
-         "title":"Follow us on LinkedIn ",
-         "link":"https:\/\/www.linkedin.com\/company\/reputation-squad"
-      },
-      "googleplus":{
-         "title":"Follow us on Google+",
-         "link":"https:\/\/plus.google.com\/+ReputationsquadFr"
+    },
+    {
+      "id": 1,
+      "name": "section-veille",
+      "class": "js-section c-section--dark u-viewport-fit",
+      "bodyClass": "is-black is-quote is-scroll",
+      "currentClass": "",
+      "route": "online-monitoring",
+      "content": {
+        "class": {
+          "wrapper": "",
+          "animate": "u-w1of3 u-offset-w2of12 u-marg-l-0@sm",
+          "paragraph": ""
+        },
+        "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M51.6,37.1c-6.3,0-11.4,5.1-11.4,11.4c0,2.1,0.6,4.1,1.6,5.7L34,62c-0.5,0.5-0.8,1.2-0.8,2c0,0.7,0.3,1.4,0.8,2c0.5,0.5,1.2,0.8,2,0.8c0.7,0,1.4-0.3,2-0.8l7.8-7.8c1.7,1,3.7,1.7,5.9,1.7c6.3,0,11.4-5.1,11.4-11.4C63,42.2,57.9,37.1,51.6,37.1z M37.2,65.2c-0.3,0.3-0.8,0.5-1.2,0.5c-0.5,0-0.9-0.2-1.2-0.5c-0.3-0.3-0.5-0.8-0.5-1.2s0.2-0.9,0.5-1.2l7.6-7.6c0.7,0.9,1.5,1.7,2.4,2.4L37.2,65.2z M51.6,58.8c-5.7,0-10.3-4.6-10.3-10.3c0-5.7,4.6-10.3,10.3-10.3s10.3,4.6,10.3,10.3C61.9,54.1,57.3,58.8,51.6,58.8z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>I Never wanted<\/span><span class='is-anim-t-1 is-anim-b-4'>to be javascript developer<\/span>",
+        "desc": "At the time when I attended computer science back there in EGYPT, I have been fascinated with the  image proccing and animation apps (PS, AE and most of Adobe applications at the time) and as I gave more attention to the animation part there was that thing of \"expressions\" like script you type and the animation goes off :) and I had a need to know more about it, so as it was based on javascript; I decided to learn it. And ever since I never come back.."
       }
-   },
-   "ui":{
-      "btnCornerRight":"Get a quote",
-      "btnScroll":"Scroll",
-      "btnNext":"Suivant"
-   },
-   "equipeNav":[
-      {
-         "label":"Account directors",
-         "route":"http:\/\/veille.reputationsquad.com\/datas\/media\/julien-tissandier.jpg"
-      },
-      {
-         "label":"Monitoring",
-         "route":"http:\/\/veille.reputationsquad.com\/datas\/media\/armand-folton.jpg"
-      },
-      {
-         "label":"Experts",
-         "route":"http:\/\/veille.reputationsquad.com\/datas\/media\/valentin-grimaud.jpg"
-      },
-      {
-         "label":"Digital Strategy",
-         "route":"http:\/\/veille.reputationsquad.com\/datas\/media\/harith-shahad.jpg"
-      },
-      {
-         "label":"Social media \/ RP",
-         "route":"http:\/\/veille.reputationsquad.com\/datas\/media\/olivia-michel.jpg"
-      },
-      {
-         "label":"Webdev \/ R&D",
-         "route":"http:\/\/veille.reputationsquad.com\/datas\/media\/neil-aronson.jpg"
+    },
+    {
+      "id": 2,
+      "name": "section-veille",
+      "class": "js-section c-section--dark u-viewport-fit",
+      "bodyClass": "is-black is-quote is-scroll",
+      "currentClass": "",
+      "route": "of-tools-and-men",
+      "content": {
+        "class": {
+          "wrapper": "u-align-right",
+          "animate": "u-w1of2 u-offset-r-w2of12 u-marg-a-0@sm",
+          "paragraph": "u-w3of4 u-inline-block u-w3of3@sm"
+        },
+        "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M63.3,63.2l-7.7-14c0.4-0.8,0.6-1.7,0.6-2.7c0-2.9-2.2-5.4-5-5.8l1.2-0.7v-6.3l-2.2-1.3l-2.2,1.3v6.3l1.3,0.7c-2.7,0.5-4.8,2.9-4.8,5.7c0,1,0.3,1.9,0.7,2.8l-6.5,9.8c-1,0.6-1.7,1.8-1.7,3c0,1.7,1.1,3.1,2.7,3.5l0.7,3l1-2.9c1.6-0.3,2.8-1.8,2.8-3.5c0-0.7-0.2-1.3-0.5-1.8l5.1-8.1c0.5,0.1,1,0.2,1.5,0.2c0.6,0,1.1-0.1,1.6-0.2L60.6,68L63.3,63.2z M49.2,34.4l1.1-0.6l1.1,0.6v5l-1.1,0.6l-1.1-0.6V34.4z M40.8,64.6c-1.4,0-2.5-1.1-2.5-2.5s1.1-2.5,2.5-2.5c1.4,0,2.5,1.1,2.5,2.5S42.2,64.6,40.8,64.6z M43.2,59.4c-0.6-0.6-1.5-0.9-2.4-0.9c-0.1,0-0.2,0-0.3,0l5.5-8.3c0.5,0.6,1.2,1.2,1.9,1.5L43.2,59.4z M45.7,46.5c0-2.6,2.1-4.8,4.8-4.8c2.6,0,4.8,2.1,4.8,4.8c0,2.6-2.1,4.8-4.8,4.8C47.9,51.3,45.7,49.2,45.7,46.5z M55,50.2l7.1,13l-1.5,2.6l-7.5-14C53.8,51.4,54.5,50.9,55,50.2z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>Of tools<\/span><span class='is-anim-t-1 is-anim-b-4'>and men<\/span>",
+        "desc": "Monitoring is only relevant through the analysis of the findings - we firmly believe that an automated process isn\u2019t enough. Although the selection of the tools most appropriate to your issues is certainly important, it is the analysis from our multidisciplinary team specialised in complex corporate issues that provide the true value of our service."
       }
-   ],
-   "sections":[
-      {
-         "id":0,
-         "name":"section-home",
-         "class":"js-section c-section--dark u-viewport-fit u-align-center",
-         "bodyClass":"is-black is-quote",
-         "currentClass":"",
-         "route":"home",
-         "content":{
-            "title":"<span class='is-anim-t-0 is-anim-b-2'>A useful<\/span><span class='is-anim-t-1 is-anim-b-3'>responsive and intelligent<\/span><span class='is-anim-t-1 is-anim-b-4'>online monitoring system<\/span>",
-            "desc":"Monitoring is the foundation of any ambitious communications strategy. It should be tailored to your exact needs and intelligible enough so as to provide actual value to your organisation. Now may be the time to rethink your approach to monitoring.",
-            "label":"Next"
-         }
-      },
-      {
-         "id":1,
-         "name":"section-veille",
-         "class":"js-section c-section--dark u-viewport-fit",
-         "bodyClass":"is-black is-quote is-scroll",
-         "currentClass":"",
-         "route":"online-monitoring",
-         "content":{
-            "class":{
-               "wrapper":"",
-               "animate":"u-w1of3 u-offset-w2of12 u-marg-l-0@sm",
-               "paragraph":""
-            },
-            "icon":"<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M51.6,37.1c-6.3,0-11.4,5.1-11.4,11.4c0,2.1,0.6,4.1,1.6,5.7L34,62c-0.5,0.5-0.8,1.2-0.8,2c0,0.7,0.3,1.4,0.8,2c0.5,0.5,1.2,0.8,2,0.8c0.7,0,1.4-0.3,2-0.8l7.8-7.8c1.7,1,3.7,1.7,5.9,1.7c6.3,0,11.4-5.1,11.4-11.4C63,42.2,57.9,37.1,51.6,37.1z M37.2,65.2c-0.3,0.3-0.8,0.5-1.2,0.5c-0.5,0-0.9-0.2-1.2-0.5c-0.3-0.3-0.5-0.8-0.5-1.2s0.2-0.9,0.5-1.2l7.6-7.6c0.7,0.9,1.5,1.7,2.4,2.4L37.2,65.2z M51.6,58.8c-5.7,0-10.3-4.6-10.3-10.3c0-5.7,4.6-10.3,10.3-10.3s10.3,4.6,10.3,10.3C61.9,54.1,57.3,58.8,51.6,58.8z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
-            "title":"<span class='is-anim-t-0 is-anim-b-3'>A monitoring solution<\/span><span class='is-anim-t-1 is-anim-b-4'>tailored to your needs<\/span>",
-            "desc":"We do not believe in a standardised monitoring process. Each and every system is geared for a specific purpose, situation or client, based on our expertise. We choose the tools, the experts and the types of report according to your actual needs."
-         }
-      },
-      {
-         "id":2,
-         "name":"section-veille",
-         "class":"js-section c-section--dark u-viewport-fit",
-         "bodyClass":"is-black is-quote is-scroll",
-         "currentClass":"",
-         "route":"of-tools-and-men",
-         "content":{
-            "class":{
-               "wrapper":"u-align-right",
-               "animate":"u-w1of2 u-offset-r-w2of12 u-marg-a-0@sm",
-               "paragraph":"u-w3of4 u-inline-block u-w3of3@sm"
-            },
-            "icon":"<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M63.3,63.2l-7.7-14c0.4-0.8,0.6-1.7,0.6-2.7c0-2.9-2.2-5.4-5-5.8l1.2-0.7v-6.3l-2.2-1.3l-2.2,1.3v6.3l1.3,0.7c-2.7,0.5-4.8,2.9-4.8,5.7c0,1,0.3,1.9,0.7,2.8l-6.5,9.8c-1,0.6-1.7,1.8-1.7,3c0,1.7,1.1,3.1,2.7,3.5l0.7,3l1-2.9c1.6-0.3,2.8-1.8,2.8-3.5c0-0.7-0.2-1.3-0.5-1.8l5.1-8.1c0.5,0.1,1,0.2,1.5,0.2c0.6,0,1.1-0.1,1.6-0.2L60.6,68L63.3,63.2z M49.2,34.4l1.1-0.6l1.1,0.6v5l-1.1,0.6l-1.1-0.6V34.4z M40.8,64.6c-1.4,0-2.5-1.1-2.5-2.5s1.1-2.5,2.5-2.5c1.4,0,2.5,1.1,2.5,2.5S42.2,64.6,40.8,64.6z M43.2,59.4c-0.6-0.6-1.5-0.9-2.4-0.9c-0.1,0-0.2,0-0.3,0l5.5-8.3c0.5,0.6,1.2,1.2,1.9,1.5L43.2,59.4z M45.7,46.5c0-2.6,2.1-4.8,4.8-4.8c2.6,0,4.8,2.1,4.8,4.8c0,2.6-2.1,4.8-4.8,4.8C47.9,51.3,45.7,49.2,45.7,46.5z M55,50.2l7.1,13l-1.5,2.6l-7.5-14C53.8,51.4,54.5,50.9,55,50.2z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
-            "title":"<span class='is-anim-t-0 is-anim-b-3'>Of tools<\/span><span class='is-anim-t-1 is-anim-b-4'>and men<\/span>",
-            "desc":"Monitoring is only relevant through the analysis of the findings - we firmly believe that an automated process isn\u2019t enough. Although the selection of the tools most appropriate to your issues is certainly important, it is the analysis from our multidisciplinary team specialised in complex corporate issues that provide the true value of our service."
-         }
-      },
-      {
-         "id":3,
-         "name":"section-veille",
-         "class":"js-section c-section--dark u-viewport-fit",
-         "bodyClass":"is-black is-quote is-scroll",
-         "currentClass":"",
-         "route":"monitor-to-act",
-         "content":{
-            "class":{
-               "wrapper":"",
-               "animate":"u-w1of3 u-offset-w2of12 u-marg-l-0@sm",
-               "paragraph":""
-            },
-            "icon":"<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\"viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M49.8,62.4c-7.3,0-13.2-5.9-13.2-13.2s5.9-13.2,13.2-13.2S63,42,63,49.3c0,1.6-0.3,3.2-0.9,4.8l-1-0.4c0.5-1.4,0.8-2.9,0.8-4.4c0-6.7-5.4-12.1-12.1-12.1s-12.1,5.4-12.1,12.1s5.4,12.1,12.1,12.1c1.1,0,2.1-0.1,3.2-0.4l0.3,1C52.1,62.3,51,62.4,49.8,62.4z\"\\\/><path d=\"M62,58.6C62.1,58.6,62.1,58.6,62,58.6L62,58.6L62,58.6z\"\\\/><polygon points=\"63.6,57 52.2,52.7 56.6,64 57.8,60.3 61.3,63.8 63.4,61.8 59.9,58.3\"\\\/><path d=\"M49.1,48.9c-0.3,0.7,0.4,1.5,1.1,1.1c0.2-0.1,0.3-0.2,0.4-0.4c0.3-0.7-0.4-1.5-1.1-1.1C49.3,48.6,49.1,48.7,49.1,48.9z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
-            "title":"<span class='is-anim-t-0 is-anim-b-3'>Monitor<\/span><span class='is-anim-t-1 is-anim-b-4'>to act<\/span>",
-            "desc":"To us, monitoring is but a part of the decision-making process. Tired of these report you struggle to find a use for? Be it for detecting opportunities or control a crisis, our alerts and reports help you understand the situations and guide you as to how you should react."
-         }
-      },
-      {
-         "id":4,
-         "name":"section-veille",
-         "class":"js-section c-section--dark u-viewport-fit",
-         "bodyClass":"is-black is-quote is-scroll",
-         "currentClass":"",
-         "route":"bringing-actionable-insights",
-         "content":{
-            "class":{
-               "wrapper":"u-align-right",
-               "animate":"u-w2of3 u-offset-r-w2of12 u-marg-a-0@sm",
-               "paragraph":"u-w2of3 u-inline-block u-w3of3@sm"
-            },
-            "icon":"<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M59.1,43.5c-0.4-1.9-1.5-3.7-2.8-5c-1.6-1.5-3.7-2.3-6.1-2.3l-0.1,0v0c-5.1,0-8.2,3.7-9,7.3c-0.7,3.2,0.7,5.5,2,7.6c0.8,1.2,1.5,2.4,1.6,3.6c0,0.2,0,0.5,0.1,0.7c0.2,2.4,0.4,4.2,1.7,4.9c0,0,0,0.1,0,0.1v0l0.4,3.1c0,1,0.7,1.8,1.6,1.8h3.2c0.9,0,1.6-0.8,1.6-1.8l0.4-2.9l0-0.1c0,0,0-0.1,0-0.1c1.3-0.6,1.5-2.5,1.7-4.9c0-0.2,0-0.4,0.1-0.6c0.1-1.2,0.9-2.4,1.6-3.7C58.4,49,59.8,46.6,59.1,43.5z M52.2,63.3L52.2,63.3c0,0.5-0.3,0.9-0.6,0.9h-3.2c-0.3,0-0.6-0.4-0.6-0.8v0l-0.3-2.8c0.2,0,0.3,0.1,0.5,0.1H52c0.2,0,0.4,0,0.5-0.1L52.2,63.3z M56.2,50.5c-0.8,1.4-1.6,2.7-1.8,4.1c0,0.2,0,0.4-0.1,0.6c-0.3,3.3-0.6,4.1-1.8,4.1c-1.8,0.1-2.4,0-2.4,0l0,0.1l0-0.1c0,0-0.6,0.1-2.5,0c-1.2,0-1.4-1-1.8-4.2c0-0.2,0-0.4-0.1-0.7c-0.2-1.4-0.9-2.7-1.8-4c-1.2-2-2.5-4-1.9-6.8c0.4-1.7,1.3-3.3,2.5-4.4c1.4-1.3,3.3-2,5.4-2c4.8,0,7.2,3.5,7.9,6.5C58.6,46.4,57.4,48.5,56.2,50.5z\"\\\/><path stroke=\"#000000\" stroke-width=\"2\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
-            "title":"<span class='is-anim-t-0 is-anim-b-3'>Bringing<\/span><span class='is-anim-t-1 is-anim-b-4'>actionable insights<\/span>",
-            "desc":"The monitoring team is entirely integrated into Reputation Squad, the online communications and reputation management agency. With a team of 45 encompassing 7 areas of expertise (PR & communications consultants, lawyers, monitoring experts, social media managers, digital strategists, graphic designers, web developers) spread between London and Paris, we are able to help you transform your monitoring report into an action plan."
-         }
-      },
-      {
-         "id":5,
-         "name":"section-offre-intro",
-         "class":"js-section c-section--dark u-viewport-fit",
-         "bodyClass":"is-black is-quote is-scroll",
-         "currentClass":"",
-         "route":"services",
-         "content":{
-            "number":"01.",
-            "title":"Custom monitoring solutions",
-            "img":{
-               "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/reputationsquad-team-veille.jpg",
-               "alt":""
-            }
-         }
-      },
-      {
-         "id":6,
-         "name":"section-offre",
-         "class":"js-section c-section--light u-viewport-fit u-pad-a-0@sm",
-         "bodyClass":"is-gray is-quote is-scroll is-ipad",
-         "currentClass":"",
-         "route":"ongoing-monitoring",
-         "content":{
-            "number":"01.",
-            "title":"Ongoing monitoring",
-            "desc":"We monitor mentions around your brand or areas of interest on a daily basis. This allows you to have a clear view of your online image :",
-            "hasBtn":false,
-            "btn":{
-               "label":"About",
-               "href":"http:\/\/monitoring.reputationsquad.com",
-               "title":"About"
-            },
-            "list":[
-               {
-                  "desc":"Types of monitoring: corporate, product, competition, industry, legal, notable individuals\u2026"
-               },
-               {
-                  "desc":"Deliverables: daily, weekly or monthly"
-               },
-               {
-                  "desc":"Notifications: alerts and recommendations"
-               }
+    },
+    {
+      "id": 3,
+      "name": "section-veille",
+      "class": "js-section c-section--dark u-viewport-fit",
+      "bodyClass": "is-black is-quote is-scroll",
+      "currentClass": "",
+      "route": "monitor-to-act",
+      "content": {
+        "class": {
+          "wrapper": "",
+          "animate": "u-w1of3 u-offset-w2of12 u-marg-l-0@sm",
+          "paragraph": ""
+        },
+        "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\"viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M49.8,62.4c-7.3,0-13.2-5.9-13.2-13.2s5.9-13.2,13.2-13.2S63,42,63,49.3c0,1.6-0.3,3.2-0.9,4.8l-1-0.4c0.5-1.4,0.8-2.9,0.8-4.4c0-6.7-5.4-12.1-12.1-12.1s-12.1,5.4-12.1,12.1s5.4,12.1,12.1,12.1c1.1,0,2.1-0.1,3.2-0.4l0.3,1C52.1,62.3,51,62.4,49.8,62.4z\"\\\/><path d=\"M62,58.6C62.1,58.6,62.1,58.6,62,58.6L62,58.6L62,58.6z\"\\\/><polygon points=\"63.6,57 52.2,52.7 56.6,64 57.8,60.3 61.3,63.8 63.4,61.8 59.9,58.3\"\\\/><path d=\"M49.1,48.9c-0.3,0.7,0.4,1.5,1.1,1.1c0.2-0.1,0.3-0.2,0.4-0.4c0.3-0.7-0.4-1.5-1.1-1.1C49.3,48.6,49.1,48.7,49.1,48.9z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>Monitor<\/span><span class='is-anim-t-1 is-anim-b-4'>to act<\/span>",
+        "desc": "To us, monitoring is but a part of the decision-making process. Tired of these report you struggle to find a use for? Be it for detecting opportunities or control a crisis, our alerts and reports help you understand the situations and guide you as to how you should react."
+      }
+    },
+    {
+      "id": 4,
+      "name": "section-veille",
+      "class": "js-section c-section--dark u-viewport-fit",
+      "bodyClass": "is-black is-quote is-scroll",
+      "currentClass": "",
+      "route": "bringing-actionable-insights",
+      "content": {
+        "class": {
+          "wrapper": "u-align-right",
+          "animate": "u-w2of3 u-offset-r-w2of12 u-marg-a-0@sm",
+          "paragraph": "u-w2of3 u-inline-block u-w3of3@sm"
+        },
+        "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M59.1,43.5c-0.4-1.9-1.5-3.7-2.8-5c-1.6-1.5-3.7-2.3-6.1-2.3l-0.1,0v0c-5.1,0-8.2,3.7-9,7.3c-0.7,3.2,0.7,5.5,2,7.6c0.8,1.2,1.5,2.4,1.6,3.6c0,0.2,0,0.5,0.1,0.7c0.2,2.4,0.4,4.2,1.7,4.9c0,0,0,0.1,0,0.1v0l0.4,3.1c0,1,0.7,1.8,1.6,1.8h3.2c0.9,0,1.6-0.8,1.6-1.8l0.4-2.9l0-0.1c0,0,0-0.1,0-0.1c1.3-0.6,1.5-2.5,1.7-4.9c0-0.2,0-0.4,0.1-0.6c0.1-1.2,0.9-2.4,1.6-3.7C58.4,49,59.8,46.6,59.1,43.5z M52.2,63.3L52.2,63.3c0,0.5-0.3,0.9-0.6,0.9h-3.2c-0.3,0-0.6-0.4-0.6-0.8v0l-0.3-2.8c0.2,0,0.3,0.1,0.5,0.1H52c0.2,0,0.4,0,0.5-0.1L52.2,63.3z M56.2,50.5c-0.8,1.4-1.6,2.7-1.8,4.1c0,0.2,0,0.4-0.1,0.6c-0.3,3.3-0.6,4.1-1.8,4.1c-1.8,0.1-2.4,0-2.4,0l0,0.1l0-0.1c0,0-0.6,0.1-2.5,0c-1.2,0-1.4-1-1.8-4.2c0-0.2,0-0.4-0.1-0.7c-0.2-1.4-0.9-2.7-1.8-4c-1.2-2-2.5-4-1.9-6.8c0.4-1.7,1.3-3.3,2.5-4.4c1.4-1.3,3.3-2,5.4-2c4.8,0,7.2,3.5,7.9,6.5C58.6,46.4,57.4,48.5,56.2,50.5z\"\\\/><path stroke=\"#000000\" stroke-width=\"2\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>Bringing<\/span><span class='is-anim-t-1 is-anim-b-4'>actionable insights<\/span>",
+        "desc": "The monitoring team is entirely integrated into Reputation Squad, the online communications and reputation management agency. With a team of 45 encompassing 7 areas of expertise (PR & communications consultants, lawyers, monitoring experts, social media managers, digital strategists, graphic designers, web developers) spread between London and Paris, we are able to help you transform your monitoring report into an action plan."
+      }
+    },
+    {
+      "id": 5,
+      "name": "section-offre-intro",
+      "class": "js-section c-section--dark u-viewport-fit",
+      "bodyClass": "is-black is-quote is-scroll",
+      "currentClass": "",
+      "route": "services",
+      "content": {
+        "number": "01.",
+        "title": "Custom monitoring solutions",
+        "img": {
+          "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/reputationsquad-team-veille.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "section-offre",
+      "class": "js-section c-section--light u-viewport-fit u-pad-a-0@sm",
+      "bodyClass": "is-gray is-quote is-scroll is-ipad",
+      "currentClass": "",
+      "route": "ongoing-monitoring",
+      "content": {
+        "number": "01.",
+        "title": "Ongoing monitoring",
+        "desc": "We monitor mentions around your brand or areas of interest on a daily basis. This allows you to have a clear view of your online image :",
+        "hasBtn": false,
+        "btn": {
+          "label": "About",
+          "href": "http:\/\/monitoring.reputationsquad.com",
+          "title": "About"
+        },
+        "list": [
+          {
+            "desc": "Types of monitoring: corporate, product, competition, industry, legal, notable individuals\u2026"
+          },
+          {
+            "desc": "Deliverables: daily, weekly or monthly"
+          },
+          {
+            "desc": "Notifications: alerts and recommendations"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "section-offre",
+      "class": "js-section c-section--light u-viewport-fit u-pad-a-0@sm",
+      "bodyClass": "is-gray is-quote is-scroll is-ipad",
+      "currentClass": "",
+      "route": "audit",
+      "content": {
+        "number": "02.",
+        "title": "Audit \/ one-time analysis",
+        "desc": "We thoroughly analyse a specific topic over a selected timeframe. Audits allow you to analyse a product launch, an event, a crisis or simply the image of your brand on the web.",
+        "hasBtn": false,
+        "btn": {
+          "label": "About",
+          "href": "http:\/\/monitoring.reputationsquad.com\/#clients",
+          "title": "About"
+        },
+        "list": [
+          {
+            "desc": "Social media conversations audit"
+          },
+          {
+            "desc": "Online image & reputation audit"
+          },
+          {
+            "desc": "Mapping of influencers"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "section-offre",
+      "class": "js-section c-section--light u-viewport-fit u-pad-a-0@sm",
+      "bodyClass": "is-gray is-quote is-scroll is-ipad",
+      "currentClass": "",
+      "route": "crisis-monitoring",
+      "content": {
+        "number": "03.",
+        "title": "Crisis<br>monitoring",
+        "desc": "During a crisis, you need a real-time monitoring system that is even more precise and efficient, carried out by experienced and dedicated consultants. We are able to set up a crisis response unit on demand.",
+        "hasBtn": false,
+        "btn": {
+          "label": "About",
+          "href": "http:\/\/monitoring.reputationsquad.com\/#clients",
+          "title": "About"
+        },
+        "list": [
+          {
+            "desc": "24\/7 targeted monitoring"
+          },
+          {
+            "desc": "Hourly reporting"
+          },
+          {
+            "desc": "Real-time recommendations and advice"
+          },
+          {
+            "desc": "Big data room"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "section-equipe-intro",
+      "class": "js-section c-section--brand u-viewport-fit",
+      "bodyClass": "is-brand is-scroll is-quote",
+      "currentClass": "",
+      "route": "team",
+      "content": {
+        "icon": "<svg version=\"1.1\"  xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path class=\"stroke\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><path d=\"M69.6,53c-1.3-0.3-2.8-0.7-3.1-1.3c0-0.1-0.2-0.3,0.2-0.9c1.7-3.2,2-6,0.9-7.8c-0.8-1.3-2.2-2-3.8-2c-1.7,0-3.1,0.7-3.8,2c-1.1,1.9-0.8,4.7,0.9,7.8c0.2,0.4,0.3,0.7,0.2,0.9c-0.3,0.6-1.8,1-3.1,1.3l-0.1,0c-0.7,0.2-1.2,0.4-1.6,0.7c-0.8-0.3-1.4-0.7-1.6-1.2c-0.2-0.4-0.1-1,0.3-1.7c2.6-4.9,3.1-9.2,1.4-12c-1.1-1.9-3.2-3-5.7-3c-2.5,0-4.6,1.1-5.8,3c-1.7,2.9-1.2,7.1,1.4,11.9c0.4,0.7,0.5,1.2,0.3,1.7c-0.2,0.5-0.8,0.9-1.6,1.2c-0.4-0.3-0.9-0.5-1.6-0.7l-0.1,0c-1.3-0.3-2.8-0.6-3.1-1.3c-0.1-0.2,0-0.5,0.2-0.9c1.7-3.2,2-5.9,0.9-7.8c-0.8-1.3-2.2-2-3.8-2c-1.7,0-3,0.7-3.8,2c-1.1,1.9-0.8,4.6,0.9,7.8c0.3,0.6,0.2,0.8,0.2,0.9c-0.3,0.6-1.8,1-3.2,1.3c-2.3,0.5-2.5,1.8-2.5,3.6l0,0.8l1,0l0-0.8c0-1.7,0.1-2.3,1.8-2.6c1.7-0.4,3.3-0.8,3.8-1.8c0.2-0.5,0.2-1.1-0.2-1.8c-1.5-2.9-1.8-5.3-0.9-6.9c0.6-1,1.6-1.5,3-1.5c1.3,0,2.4,0.5,3,1.5c0.9,1.6,0.6,4-0.9,6.8c-0.4,0.7-0.4,1.3-0.2,1.8c0.5,1.1,2.1,1.4,3.8,1.8l0.1,0c0.2,0,0.3,0.1,0.5,0.1c-0.7,0.2-1.4,0.4-2.1,0.5l-0.2,0.1c-3.4,0.8-3.7,2.6-3.7,5.3l0,1.3l1,0l0-1.3c0-2.5,0.1-3.7,2.9-4.4l0.2-0.1c2.6-0.6,5-1.2,5.7-2.7c0.3-0.7,0.2-1.6-0.3-2.6c-2.5-4.5-3-8.4-1.5-11c1-1.6,2.7-2.5,4.9-2.5c2.2,0,3.9,0.9,4.9,2.5c1.5,2.5,1,6.4-1.4,11c-0.5,1-0.6,1.8-0.3,2.6c0.7,1.5,3.2,2.1,5.8,2.7l0.1,0c2.8,0.6,2.9,1.9,2.9,4.4l0,1.3l1,0l0-1.3c0-2.7-0.3-4.5-3.7-5.3l-0.1,0c-0.7-0.2-1.5-0.3-2.2-0.5c0.1-0.1,0.3-0.1,0.5-0.1l0.1,0c1.7-0.4,3.3-0.8,3.8-1.8c0.2-0.5,0.2-1.1-0.2-1.8c-1.5-2.8-1.9-5.3-0.9-6.8c0.6-1,1.6-1.5,3-1.5c1.3,0,2.4,0.5,3,1.5c0.9,1.6,0.6,4-0.9,6.9c-0.4,0.7-0.4,1.3-0.2,1.8c0.5,1.1,2.1,1.4,3.9,1.9c1.6,0.4,1.7,0.9,1.7,2.6l0,0.8l1,0l0-0.8C72.2,54.9,72,53.6,69.6,53z\"\\\/><\\\/svg>",
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>The team<\/span>",
+        "desc": "Monitoring project are led by our account directors and carried out by our monitoring experts, all of whom possess Master\u2019s degrees from top schools and universities and are on permanent contracts, guaranteeing stability and know-how for your projects.\r\nEach member of the team is able to rely on the in-house expertise of the agency, which includes skills as essential and diverse as social media, SEO, communications, law, etc."
+      }
+    },
+    {
+      "id": 10,
+      "name": "section-equipe",
+      "class": "js-section c-section--brand u-viewport-fit c-section--brand--delayed",
+      "bodyClass": "is-brand is-scroll is-quote",
+      "currentClass": "",
+      "route": "team",
+      "content": {
+        "slides": [
+          {
+            "title": "Account directors",
+            "currentClass": "",
+            "persons": [
+              {
+                "name": "Laura Dorstter",
+                "job": "Account director",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/laura-dorstter.jpg",
+                  "alt": "laura dorstter"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "AccountDirector"
+                  },
+                  {
+                    "name": "Celebrities"
+                  },
+                  {
+                    "name": "NationBranding"
+                  },
+                  {
+                    "name": "Entertainment"
+                  },
+                  {
+                    "name": "Energy"
+                  },
+                  {
+                    "name": "ILoveTexas"
+                  }
+                ]
+              },
+              {
+                "name": "J\u00e9r\u00e9mie No\u00ebl",
+                "job": "Account director",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/jeremie-noel.jpg",
+                  "alt": "jeremie-noel"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "AccountDirector"
+                  },
+                  {
+                    "name": "Crisis"
+                  },
+                  {
+                    "name": "KeyAccounts"
+                  },
+                  {
+                    "name": "Finance"
+                  },
+                  {
+                    "name": "Insurance"
+                  },
+                  {
+                    "name": "Pharmaceuticals"
+                  }
+                ]
+              },
+              {
+                "name": "Liv Richard",
+                "job": "Account director",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/liv-richard.jpg",
+                  "alt": "liv richard"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "AccountDirector"
+                  },
+                  {
+                    "name": "Industry"
+                  },
+                  {
+                    "name": "RealEstate"
+                  },
+                  {
+                    "name": "FMCG"
+                  },
+                  {
+                    "name": "ILoveChoppers"
+                  }
+                ]
+              },
+              {
+                "name": "Julien Tissandier",
+                "job": "Account director",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/julien-tissandier.jpg",
+                  "alt": "julien tissandier"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "AccountDirector"
+                  },
+                  {
+                    "name": "International"
+                  },
+                  {
+                    "name": "Crisis"
+                  },
+                  {
+                    "name": "Marketing"
+                  },
+                  {
+                    "name": "RockNRoll"
+                  }
+                ]
+              }
             ]
-         }
-      },
-      {
-         "id":7,
-         "name":"section-offre",
-         "class":"js-section c-section--light u-viewport-fit u-pad-a-0@sm",
-         "bodyClass":"is-gray is-quote is-scroll is-ipad",
-         "currentClass":"",
-         "route":"audit",
-         "content":{
-            "number":"02.",
-            "title":"Audit \/ one-time analysis",
-            "desc":"We thoroughly analyse a specific topic over a selected timeframe. Audits allow you to analyse a product launch, an event, a crisis or simply the image of your brand on the web.",
-            "hasBtn":false,
-            "btn":{
-               "label":"About",
-               "href":"http:\/\/monitoring.reputationsquad.com\/#clients",
-               "title":"About"
+          },
+          {
+            "title": "Monitoring",
+            "currentClass": "",
+            "persons": [
+              {
+                "name": "Yasmine Khalouche",
+                "job": "Monitoring manager",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/yasmine-khalouch.jpg",
+                  "alt": "yasmine khalouche"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Industry"
+                  },
+                  {
+                    "name": "RealEstate"
+                  },
+                  {
+                    "name": "Software"
+                  },
+                  {
+                    "name": "Crisis"
+                  },
+                  {
+                    "name": "International"
+                  },
+                  {
+                    "name": "AlwaysReady"
+                  }
+                ]
+              },
+              {
+                "name": "Helene Classine",
+                "job": "Monitoring manager",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/helene-classine.jpg",
+                  "alt": "helene classine"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Industry"
+                  },
+                  {
+                    "name": "Corporate"
+                  },
+                  {
+                    "name": "Celebrities"
+                  },
+                  {
+                    "name": "Crisis"
+                  },
+                  {
+                    "name": "Travels"
+                  }
+                ]
+              },
+              {
+                "name": "Emma Bellouere",
+                "job": "Monitoring manager",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/emma-bellouere.jpg",
+                  "alt": "emma bellouere"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Banking"
+                  },
+                  {
+                    "name": "Politics"
+                  },
+                  {
+                    "name": "Crisis"
+                  },
+                  {
+                    "name": "Media"
+                  },
+                  {
+                    "name": "Innovation"
+                  },
+                  {
+                    "name": "Luxury"
+                  },
+                  {
+                    "name": "Cocktail"
+                  }
+                ]
+              },
+              {
+                "name": "Mathilde Bricault",
+                "job": "Consultant",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/mathilde-bricault.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Africa"
+                  },
+                  {
+                    "name": "Crisis"
+                  },
+                  {
+                    "name": "PoliticalComms"
+                  },
+                  {
+                    "name": "Celebrities"
+                  },
+                  {
+                    "name": "Bricommando"
+                  }
+                ]
+              },
+              {
+                "name": "Armand Folton",
+                "job": "Monitoring manager",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/armand-folton.jpg",
+                  "alt": "armand folton"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Strategy"
+                  },
+                  {
+                    "name": "Influence"
+                  },
+                  {
+                    "name": "International"
+                  },
+                  {
+                    "name": "AlwaysReactive"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Experts",
+            "currentClass": "",
+            "persons": [
+              {
+                "name": "Max Chouzier",
+                "job": "Legal expert",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/max-chouzier.jpg",
+                  "alt": "max chouzier"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "ICT"
+                  },
+                  {
+                    "name": "Privacy"
+                  },
+                  {
+                    "name": "Forensic"
+                  },
+                  {
+                    "name": "Boardgame"
+                  }
+                ]
+              },
+              {
+                "name": "Arbi Jaupi",
+                "job": "Legal expert",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/arbi-jaupi.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "DataProtection"
+                  },
+                  {
+                    "name": "NTIC"
+                  },
+                  {
+                    "name": "FrenchTech"
+                  },
+                  {
+                    "name": "IP"
+                  },
+                  {
+                    "name": "EULaw"
+                  },
+                  {
+                    "name": "International"
+                  },
+                  {
+                    "name": "Medias"
+                  },
+                  {
+                    "name": "Basketball"
+                  }
+                ]
+              },
+              {
+                "name": "Rapha\u00ebl Rougier",
+                "job": "Consultant",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/raphael-rougier.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Africa"
+                  },
+                  {
+                    "name": "PoliticalComms"
+                  },
+                  {
+                    "name": "CorpComms"
+                  },
+                  {
+                    "name": "ContentStrategy"
+                  },
+                  {
+                    "name": "Books"
+                  },
+                  {
+                    "name": "Gaming"
+                  }
+                ]
+              },
+              {
+                "name": "Axelle Levelut",
+                "job": "Consultant",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/axelle-levelut.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Africa"
+                  },
+                  {
+                    "name": "PoliticalComms"
+                  },
+                  {
+                    "name": "CorpComms"
+                  },
+                  {
+                    "name": "Swimming"
+                  }
+                ]
+              },
+              {
+                "name": "Valentin Grimaud",
+                "job": "Consultant",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/valentin-grimaud.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Celebrities"
+                  },
+                  {
+                    "name": "Luxury"
+                  },
+                  {
+                    "name": "Corporate"
+                  },
+                  {
+                    "name": "Energy"
+                  },
+                  {
+                    "name": "Influence"
+                  },
+                  {
+                    "name": "boxing"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Digital Strategy",
+            "currentClass": "",
+            "persons": [
+              {
+                "name": "Benjamin Merritt",
+                "job": "Digital Strategist",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/benjamin-merritt.jpg",
+                  "alt": "benjamin merritt"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Innovation"
+                  },
+                  {
+                    "name": "Insight"
+                  },
+                  {
+                    "name": "GotAnIdea"
+                  },
+                  {
+                    "name": "Startup"
+                  },
+                  {
+                    "name": "VR"
+                  },
+                  {
+                    "name": "IOT"
+                  },
+                  {
+                    "name": "Hashtag"
+                  }
+                ]
+              },
+              {
+                "name": "Mathieu Preau",
+                "job": "Digital Strategist",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/mathieu-preau.jpg",
+                  "alt": "mathieu preau"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Strategy"
+                  },
+                  {
+                    "name": "InteractiveDesign"
+                  },
+                  {
+                    "name": "ProjectManagement"
+                  },
+                  {
+                    "name": "Limbo"
+                  }
+                ]
+              },
+              {
+                "name": "Maixent Chenebaux",
+                "job": "UX Lead",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/maixent-chenebaux.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "UX"
+                  },
+                  {
+                    "name": "UI"
+                  },
+                  {
+                    "name": "Data"
+                  },
+                  {
+                    "name": "AI"
+                  },
+                  {
+                    "name": "NeuronalNetwork"
+                  },
+                  {
+                    "name": "Strategy"
+                  }
+                ]
+              },
+              {
+                "name": "Harith Shahad",
+                "job": "Digital Planner",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/harith-shahad.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Trends"
+                  },
+                  {
+                    "name": "Slack"
+                  },
+                  {
+                    "name": "Insight"
+                  },
+                  {
+                    "name": "SocialMedia"
+                  },
+                  {
+                    "name": "Apple"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Social media \/ RP",
+            "currentClass": "",
+            "persons": [
+              {
+                "name": "Henriette de Robillard",
+                "job": "Social media consultant",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/henriette-de-robillard.jpg",
+                  "alt": "henriette de robillard"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "OnlineBanking"
+                  },
+                  {
+                    "name": "KeyAccounts"
+                  },
+                  {
+                    "name": "Creation"
+                  },
+                  {
+                    "name": "NewTrends"
+                  },
+                  {
+                    "name": "Musique"
+                  }
+                ]
+              },
+              {
+                "name": "Alexis Christoforou",
+                "job": "Account director",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/alexis-christoforou.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Finance"
+                  },
+                  {
+                    "name": "B2C"
+                  },
+                  {
+                    "name": "eRP"
+                  },
+                  {
+                    "name": "BrandContent"
+                  },
+                  {
+                    "name": "Opera"
+                  }
+                ]
+              },
+              {
+                "name": "Alice Phaysane",
+                "job": "Online PR",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/alice-phaysane.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "SocialMedia"
+                  },
+                  {
+                    "name": "Blog"
+                  },
+                  {
+                    "name": "Digital"
+                  },
+                  {
+                    "name": "Innovation"
+                  },
+                  {
+                    "name": "Food"
+                  }
+                ]
+              },
+              {
+                "name": "Olivia Michel",
+                "job": "Online PR",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/olivia-michel.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Influence"
+                  },
+                  {
+                    "name": "OnlinePR"
+                  },
+                  {
+                    "name": "Blogging"
+                  },
+                  {
+                    "name": "Fashion"
+                  },
+                  {
+                    "name": "Paris "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Webdev \/ R&D",
+            "currentClass": "",
+            "persons": [
+              {
+                "name": "Benoit Linard",
+                "job": "Web Developer",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/benoit-linard.jpg",
+                  "alt": "benoit linard"
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Webdev"
+                  },
+                  {
+                    "name": "Tools"
+                  },
+                  {
+                    "name": "OneManBand"
+                  },
+                  {
+                    "name": "WhatsNext"
+                  }
+                ]
+              },
+              {
+                "name": "Thierry Roncier",
+                "job": "Tech Director",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/thierry-roncier.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "UI"
+                  },
+                  {
+                    "name": "UX"
+                  },
+                  {
+                    "name": "PHP"
+                  },
+                  {
+                    "name": "HTML5"
+                  },
+                  {
+                    "name": "WordPress"
+                  },
+                  {
+                    "name": "DevBack"
+                  },
+                  {
+                    "name": "Rennes"
+                  }
+                ]
+              },
+              {
+                "name": "Benoit Cyrulik",
+                "job": "Web developer",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/benoit-cyrulik.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "Responsive"
+                  },
+                  {
+                    "name": "WordPress"
+                  },
+                  {
+                    "name": "FrontEnd"
+                  },
+                  {
+                    "name": "UX"
+                  },
+                  {
+                    "name": "AndroidFanboy"
+                  }
+                ]
+              },
+              {
+                "name": "Neil Aronson",
+                "job": "Data scientist ",
+                "img": {
+                  "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/neil-aronson.jpg",
+                  "alt": ""
+                },
+                "desc": "",
+                "hashtag": [
+                  {
+                    "name": "BigData"
+                  },
+                  {
+                    "name": "Crawler"
+                  },
+                  {
+                    "name": "Algorithm"
+                  },
+                  {
+                    "name": "USA"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "section-reference-intro",
+      "class": "js-section c-section--light u-viewport-fit",
+      "bodyClass": "is-gray is-scroll is-quote",
+      "currentClass": "",
+      "route": "case-studies",
+      "content": {
+        "title": "Case studies",
+        "desc": "Monitoring as a strategic tool remains relevant across any industry. Be it for communications, marketing or reputation purposes, blue chip companies have been using our services in order to gain strategic insight for operations and projects on an international scale."
+      }
+    },
+    {
+      "id": 12,
+      "name": "section-reference",
+      "class": "js-section c-section--light u-viewport-fit u-pad-a-0",
+      "bodyClass": "is-gray is-scroll is-quote",
+      "currentClass": "",
+      "route": "clients",
+      "content": {
+        "altView": true,
+        "business": [
+          {
+            "label": "Luxury"
+          },
+          {
+            "label": "Industry"
+          },
+          {
+            "label": "Banking \/ Insurance"
+          },
+          {
+            "label": "Estate"
+          },
+          {
+            "label": "Pharmaceutical Industry"
+          },
+          {
+            "label": "Institutions"
+          },
+          {
+            "label": "Energy"
+          }
+        ],
+        "clients": [
+          {
+            "id": "luxury",
+            "name": "Luxury",
+            "logo": {
+              "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/luxe-en.png",
+              "alt": ""
             },
-            "list":[
-               {
-                  "desc":"Social media conversations audit"
-               },
-               {
-                  "desc":"Online image & reputation audit"
-               },
-               {
-                  "desc":"Mapping of influencers"
-               }
-            ]
-         }
-      },
-      {
-         "id":8,
-         "name":"section-offre",
-         "class":"js-section c-section--light u-viewport-fit u-pad-a-0@sm",
-         "bodyClass":"is-gray is-quote is-scroll is-ipad",
-         "currentClass":"",
-         "route":"crisis-monitoring",
-         "content":{
-            "number":"03.",
-            "title":"Crisis<br>monitoring",
-            "desc":"During a crisis, you need a real-time monitoring system that is even more precise and efficient, carried out by experienced and dedicated consultants. We are able to set up a crisis response unit on demand.",
-            "hasBtn":false,
-            "btn":{
-               "label":"About",
-               "href":"http:\/\/monitoring.reputationsquad.com\/#clients",
-               "title":"About"
+            "desc": "",
+            "label": "",
+            "link": "http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/luxury\/",
+            "hasCaseStudy": "false"
+          },
+          {
+            "id": "industry",
+            "name": "Industry",
+            "logo": {
+              "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/industrie-en.png",
+              "alt": ""
             },
-            "list":[
-               {
-                  "desc":"24\/7 targeted monitoring"
-               },
-               {
-                  "desc":"Hourly reporting"
-               },
-               {
-                  "desc":"Real-time recommendations and advice"
-               },
-               {
-                  "desc":"Big data room"
-               }
-            ]
-         }
-      },
-      {
-         "id":9,
-         "name":"section-equipe-intro",
-         "class":"js-section c-section--brand u-viewport-fit",
-         "bodyClass":"is-brand is-scroll is-quote",
-         "currentClass":"",
-         "route":"team",
-         "content":{
-            "icon":"<svg version=\"1.1\"  xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path class=\"stroke\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><path d=\"M69.6,53c-1.3-0.3-2.8-0.7-3.1-1.3c0-0.1-0.2-0.3,0.2-0.9c1.7-3.2,2-6,0.9-7.8c-0.8-1.3-2.2-2-3.8-2c-1.7,0-3.1,0.7-3.8,2c-1.1,1.9-0.8,4.7,0.9,7.8c0.2,0.4,0.3,0.7,0.2,0.9c-0.3,0.6-1.8,1-3.1,1.3l-0.1,0c-0.7,0.2-1.2,0.4-1.6,0.7c-0.8-0.3-1.4-0.7-1.6-1.2c-0.2-0.4-0.1-1,0.3-1.7c2.6-4.9,3.1-9.2,1.4-12c-1.1-1.9-3.2-3-5.7-3c-2.5,0-4.6,1.1-5.8,3c-1.7,2.9-1.2,7.1,1.4,11.9c0.4,0.7,0.5,1.2,0.3,1.7c-0.2,0.5-0.8,0.9-1.6,1.2c-0.4-0.3-0.9-0.5-1.6-0.7l-0.1,0c-1.3-0.3-2.8-0.6-3.1-1.3c-0.1-0.2,0-0.5,0.2-0.9c1.7-3.2,2-5.9,0.9-7.8c-0.8-1.3-2.2-2-3.8-2c-1.7,0-3,0.7-3.8,2c-1.1,1.9-0.8,4.6,0.9,7.8c0.3,0.6,0.2,0.8,0.2,0.9c-0.3,0.6-1.8,1-3.2,1.3c-2.3,0.5-2.5,1.8-2.5,3.6l0,0.8l1,0l0-0.8c0-1.7,0.1-2.3,1.8-2.6c1.7-0.4,3.3-0.8,3.8-1.8c0.2-0.5,0.2-1.1-0.2-1.8c-1.5-2.9-1.8-5.3-0.9-6.9c0.6-1,1.6-1.5,3-1.5c1.3,0,2.4,0.5,3,1.5c0.9,1.6,0.6,4-0.9,6.8c-0.4,0.7-0.4,1.3-0.2,1.8c0.5,1.1,2.1,1.4,3.8,1.8l0.1,0c0.2,0,0.3,0.1,0.5,0.1c-0.7,0.2-1.4,0.4-2.1,0.5l-0.2,0.1c-3.4,0.8-3.7,2.6-3.7,5.3l0,1.3l1,0l0-1.3c0-2.5,0.1-3.7,2.9-4.4l0.2-0.1c2.6-0.6,5-1.2,5.7-2.7c0.3-0.7,0.2-1.6-0.3-2.6c-2.5-4.5-3-8.4-1.5-11c1-1.6,2.7-2.5,4.9-2.5c2.2,0,3.9,0.9,4.9,2.5c1.5,2.5,1,6.4-1.4,11c-0.5,1-0.6,1.8-0.3,2.6c0.7,1.5,3.2,2.1,5.8,2.7l0.1,0c2.8,0.6,2.9,1.9,2.9,4.4l0,1.3l1,0l0-1.3c0-2.7-0.3-4.5-3.7-5.3l-0.1,0c-0.7-0.2-1.5-0.3-2.2-0.5c0.1-0.1,0.3-0.1,0.5-0.1l0.1,0c1.7-0.4,3.3-0.8,3.8-1.8c0.2-0.5,0.2-1.1-0.2-1.8c-1.5-2.8-1.9-5.3-0.9-6.8c0.6-1,1.6-1.5,3-1.5c1.3,0,2.4,0.5,3,1.5c0.9,1.6,0.6,4-0.9,6.9c-0.4,0.7-0.4,1.3-0.2,1.8c0.5,1.1,2.1,1.4,3.9,1.9c1.6,0.4,1.7,0.9,1.7,2.6l0,0.8l1,0l0-0.8C72.2,54.9,72,53.6,69.6,53z\"\\\/><\\\/svg>",
-            "title":"<span class='is-anim-t-0 is-anim-b-3'>The team<\/span>",
-            "desc":"Monitoring project are led by our account directors and carried out by our monitoring experts, all of whom possess Master\u2019s degrees from top schools and universities and are on permanent contracts, guaranteeing stability and know-how for your projects.\r\nEach member of the team is able to rely on the in-house expertise of the agency, which includes skills as essential and diverse as social media, SEO, communications, law, etc."
-         }
-      },
-      {
-         "id":10,
-         "name":"section-equipe",
-         "class":"js-section c-section--brand u-viewport-fit c-section--brand--delayed",
-         "bodyClass":"is-brand is-scroll is-quote",
-         "currentClass":"",
-         "route":"team",
-         "content":{
-            "slides":[
-               {
-                  "title":"Account directors",
-                  "currentClass":"",
-                  "persons":[
-                     {
-                        "name":"Laura Dorstter",
-                        "job":"Account director",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/laura-dorstter.jpg",
-                           "alt":"laura dorstter"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"AccountDirector"
-                           },
-                           {
-                              "name":"Celebrities"
-                           },
-                           {
-                              "name":"NationBranding"
-                           },
-                           {
-                              "name":"Entertainment"
-                           },
-                           {
-                              "name":"Energy"
-                           },
-                           {
-                              "name":"ILoveTexas"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"J\u00e9r\u00e9mie No\u00ebl",
-                        "job":"Account director",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/jeremie-noel.jpg",
-                           "alt":"jeremie-noel"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"AccountDirector"
-                           },
-                           {
-                              "name":"Crisis"
-                           },
-                           {
-                              "name":"KeyAccounts"
-                           },
-                           {
-                              "name":"Finance"
-                           },
-                           {
-                              "name":"Insurance"
-                           },
-                           {
-                              "name":"Pharmaceuticals"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Liv Richard",
-                        "job":"Account director",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/liv-richard.jpg",
-                           "alt":"liv richard"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"AccountDirector"
-                           },
-                           {
-                              "name":"Industry"
-                           },
-                           {
-                              "name":"RealEstate"
-                           },
-                           {
-                              "name":"FMCG"
-                           },
-                           {
-                              "name":"ILoveChoppers"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Julien Tissandier",
-                        "job":"Account director",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/julien-tissandier.jpg",
-                           "alt":"julien tissandier"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"AccountDirector"
-                           },
-                           {
-                              "name":"International"
-                           },
-                           {
-                              "name":"Crisis"
-                           },
-                           {
-                              "name":"Marketing"
-                           },
-                           {
-                              "name":"RockNRoll"
-                           }
-                        ]
-                     }
-                  ]
-               },
-               {
-                  "title":"Monitoring",
-                  "currentClass":"",
-                  "persons":[
-                     {
-                        "name":"Yasmine Khalouche",
-                        "job":"Monitoring manager",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/yasmine-khalouch.jpg",
-                           "alt":"yasmine khalouche"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Industry"
-                           },
-                           {
-                              "name":"RealEstate"
-                           },
-                           {
-                              "name":"Software"
-                           },
-                           {
-                              "name":"Crisis"
-                           },
-                           {
-                              "name":"International"
-                           },
-                           {
-                              "name":"AlwaysReady"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Helene Classine",
-                        "job":"Monitoring manager",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/helene-classine.jpg",
-                           "alt":"helene classine"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Industry"
-                           },
-                           {
-                              "name":"Corporate"
-                           },
-                           {
-                              "name":"Celebrities"
-                           },
-                           {
-                              "name":"Crisis"
-                           },
-                           {
-                              "name":"Travels"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Emma Bellouere",
-                        "job":"Monitoring manager",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/emma-bellouere.jpg",
-                           "alt":"emma bellouere"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Banking"
-                           },
-                           {
-                              "name":"Politics"
-                           },
-                           {
-                              "name":"Crisis"
-                           },
-                           {
-                              "name":"Media"
-                           },
-                           {
-                              "name":"Innovation"
-                           },
-                           {
-                              "name":"Luxury"
-                           },
-                           {
-                              "name":"Cocktail"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Mathilde Bricault",
-                        "job":"Consultant",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/mathilde-bricault.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Africa"
-                           },
-                           {
-                              "name":"Crisis"
-                           },
-                           {
-                              "name":"PoliticalComms"
-                           },
-                           {
-                              "name":"Celebrities"
-                           },
-                           {
-                              "name":"Bricommando"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Armand Folton",
-                        "job":"Monitoring manager",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/armand-folton.jpg",
-                           "alt":"armand folton"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Strategy"
-                           },
-                           {
-                              "name":"Influence"
-                           },
-                           {
-                              "name":"International"
-                           },
-                           {
-                              "name":"AlwaysReactive"
-                           }
-                        ]
-                     }
-                  ]
-               },
-               {
-                  "title":"Experts",
-                  "currentClass":"",
-                  "persons":[
-                     {
-                        "name":"Max Chouzier",
-                        "job":"Legal expert",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/max-chouzier.jpg",
-                           "alt":"max chouzier"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"ICT"
-                           },
-                           {
-                              "name":"Privacy"
-                           },
-                           {
-                              "name":"Forensic"
-                           },
-                           {
-                              "name":"Boardgame"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Arbi Jaupi",
-                        "job":"Legal expert",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/arbi-jaupi.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"DataProtection"
-                           },
-                           {
-                              "name":"NTIC"
-                           },
-                           {
-                              "name":"FrenchTech"
-                           },
-                           {
-                              "name":"IP"
-                           },
-                           {
-                              "name":"EULaw"
-                           },
-                           {
-                              "name":"International"
-                           },
-                           {
-                              "name":"Medias"
-                           },
-                           {
-                              "name":"Basketball"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Rapha\u00ebl Rougier",
-                        "job":"Consultant",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/raphael-rougier.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Africa"
-                           },
-                           {
-                              "name":"PoliticalComms"
-                           },
-                           {
-                              "name":"CorpComms"
-                           },
-                           {
-                              "name":"ContentStrategy"
-                           },
-                           {
-                              "name":"Books"
-                           },
-                           {
-                              "name":"Gaming"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Axelle Levelut",
-                        "job":"Consultant",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/axelle-levelut.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Africa"
-                           },
-                           {
-                              "name":"PoliticalComms"
-                           },
-                           {
-                              "name":"CorpComms"
-                           },
-                           {
-                              "name":"Swimming"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Valentin Grimaud",
-                        "job":"Consultant",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/valentin-grimaud.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Celebrities"
-                           },
-                           {
-                              "name":"Luxury"
-                           },
-                           {
-                              "name":"Corporate"
-                           },
-                           {
-                              "name":"Energy"
-                           },
-                           {
-                              "name":"Influence"
-                           },
-                           {
-                              "name":"boxing"
-                           }
-                        ]
-                     }
-                  ]
-               },
-               {
-                  "title":"Digital Strategy",
-                  "currentClass":"",
-                  "persons":[
-                     {
-                        "name":"Benjamin Merritt",
-                        "job":"Digital Strategist",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/benjamin-merritt.jpg",
-                           "alt":"benjamin merritt"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Innovation"
-                           },
-                           {
-                              "name":"Insight"
-                           },
-                           {
-                              "name":"GotAnIdea"
-                           },
-                           {
-                              "name":"Startup"
-                           },
-                           {
-                              "name":"VR"
-                           },
-                           {
-                              "name":"IOT"
-                           },
-                           {
-                              "name":"Hashtag"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Mathieu Preau",
-                        "job":"Digital Strategist",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/mathieu-preau.jpg",
-                           "alt":"mathieu preau"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Strategy"
-                           },
-                           {
-                              "name":"InteractiveDesign"
-                           },
-                           {
-                              "name":"ProjectManagement"
-                           },
-                           {
-                              "name":"Limbo"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Maixent Chenebaux",
-                        "job":"UX Lead",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/maixent-chenebaux.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"UX"
-                           },
-                           {
-                              "name":"UI"
-                           },
-                           {
-                              "name":"Data"
-                           },
-                           {
-                              "name":"AI"
-                           },
-                           {
-                              "name":"NeuronalNetwork"
-                           },
-                           {
-                              "name":"Strategy"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Harith Shahad",
-                        "job":"Digital Planner",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/harith-shahad.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Trends"
-                           },
-                           {
-                              "name":"Slack"
-                           },
-                           {
-                              "name":"Insight"
-                           },
-                           {
-                              "name":"SocialMedia"
-                           },
-                           {
-                              "name":"Apple"
-                           }
-                        ]
-                     }
-                  ]
-               },
-               {
-                  "title":"Social media \/ RP",
-                  "currentClass":"",
-                  "persons":[
-                     {
-                        "name":"Henriette de Robillard",
-                        "job":"Social media consultant",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/henriette-de-robillard.jpg",
-                           "alt":"henriette de robillard"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"OnlineBanking"
-                           },
-                           {
-                              "name":"KeyAccounts"
-                           },
-                           {
-                              "name":"Creation"
-                           },
-                           {
-                              "name":"NewTrends"
-                           },
-                           {
-                              "name":"Musique"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Alexis Christoforou",
-                        "job":"Account director",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/alexis-christoforou.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Finance"
-                           },
-                           {
-                              "name":"B2C"
-                           },
-                           {
-                              "name":"eRP"
-                           },
-                           {
-                              "name":"BrandContent"
-                           },
-                           {
-                              "name":"Opera"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Alice Phaysane",
-                        "job":"Online PR",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/alice-phaysane.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"SocialMedia"
-                           },
-                           {
-                              "name":"Blog"
-                           },
-                           {
-                              "name":"Digital"
-                           },
-                           {
-                              "name":"Innovation"
-                           },
-                           {
-                              "name":"Food"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Olivia Michel",
-                        "job":"Online PR",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/olivia-michel.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Influence"
-                           },
-                           {
-                              "name":"OnlinePR"
-                           },
-                           {
-                              "name":"Blogging"
-                           },
-                           {
-                              "name":"Fashion"
-                           },
-                           {
-                              "name":"Paris "
-                           }
-                        ]
-                     }
-                  ]
-               },
-               {
-                  "title":"Webdev \/ R&D",
-                  "currentClass":"",
-                  "persons":[
-                     {
-                        "name":"Benoit Linard",
-                        "job":"Web Developer",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/benoit-linard.jpg",
-                           "alt":"benoit linard"
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Webdev"
-                           },
-                           {
-                              "name":"Tools"
-                           },
-                           {
-                              "name":"OneManBand"
-                           },
-                           {
-                              "name":"WhatsNext"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Thierry Roncier",
-                        "job":"Tech Director",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/thierry-roncier.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"UI"
-                           },
-                           {
-                              "name":"UX"
-                           },
-                           {
-                              "name":"PHP"
-                           },
-                           {
-                              "name":"HTML5"
-                           },
-                           {
-                              "name":"WordPress"
-                           },
-                           {
-                              "name":"DevBack"
-                           },
-                           {
-                              "name":"Rennes"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Benoit Cyrulik",
-                        "job":"Web developer",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/benoit-cyrulik.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"Responsive"
-                           },
-                           {
-                              "name":"WordPress"
-                           },
-                           {
-                              "name":"FrontEnd"
-                           },
-                           {
-                              "name":"UX"
-                           },
-                           {
-                              "name":"AndroidFanboy"
-                           }
-                        ]
-                     },
-                     {
-                        "name":"Neil Aronson",
-                        "job":"Data scientist ",
-                        "img":{
-                           "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/neil-aronson.jpg",
-                           "alt":""
-                        },
-                        "desc":"",
-                        "hashtag":[
-                           {
-                              "name":"BigData"
-                           },
-                           {
-                              "name":"Crawler"
-                           },
-                           {
-                              "name":"Algorithm"
-                           },
-                           {
-                              "name":"USA"
-                           }
-                        ]
-                     }
-                  ]
-               }
-            ]
-         }
-      },
-      {
-         "id":11,
-         "name":"section-reference-intro",
-         "class":"js-section c-section--light u-viewport-fit",
-         "bodyClass":"is-gray is-scroll is-quote",
-         "currentClass":"",
-         "route":"case-studies",
-         "content":{
-            "title":"Case studies",
-            "desc":"Monitoring as a strategic tool remains relevant across any industry. Be it for communications, marketing or reputation purposes, blue chip companies have been using our services in order to gain strategic insight for operations and projects on an international scale."
-         }
-      },
-      {
-         "id":12,
-         "name":"section-reference",
-         "class":"js-section c-section--light u-viewport-fit u-pad-a-0",
-         "bodyClass":"is-gray is-scroll is-quote",
-         "currentClass":"",
-         "route":"clients",
-         "content":{
-            "altView":true,
-            "business":[
-               {
-                  "label":"Luxury"
-               },
-               {
-                  "label":"Industry"
-               },
-               {
-                  "label":"Banking \/ Insurance"
-               },
-               {
-                  "label":"Estate"
-               },
-               {
-                  "label":"Pharmaceutical Industry"
-               },
-               {
-                  "label":"Institutions"
-               },
-               {
-                  "label":"Energy"
-               }
+            "desc": "",
+            "label": "",
+            "link": "http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/industry\/",
+            "hasCaseStudy": "false"
+          },
+          {
+            "id": "banking-%2F-insurance",
+            "name": "Banking \/ Insurance",
+            "logo": {
+              "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/banque-en.png",
+              "alt": ""
+            },
+            "desc": "",
+            "label": "",
+            "link": "http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/banking-insurance\/",
+            "hasCaseStudy": "false"
+          },
+          {
+            "id": "estate",
+            "name": "Estate",
+            "logo": {
+              "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/immo-en.png",
+              "alt": ""
+            },
+            "desc": "",
+            "label": "",
+            "link": "http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/estate\/",
+            "hasCaseStudy": "false"
+          },
+          {
+            "id": "pharmaceutical-industry",
+            "name": "Pharmaceutical industry",
+            "logo": {
+              "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/pharma-en.png",
+              "alt": ""
+            },
+            "desc": "",
+            "label": "",
+            "link": "http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/pharmaceutical-industry\/",
+            "hasCaseStudy": "false"
+          },
+          {
+            "id": "institutions",
+            "name": "Institutions",
+            "logo": {
+              "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/institution-en.png",
+              "alt": ""
+            },
+            "desc": "",
+            "label": "",
+            "link": "http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/institutions\/",
+            "hasCaseStudy": "false"
+          },
+          {
+            "id": "energy",
+            "name": "Energy",
+            "logo": {
+              "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/energie-en.png",
+              "alt": ""
+            },
+            "desc": "",
+            "label": "",
+            "link": "http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/energy\/",
+            "hasCaseStudy": "false"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "section-form",
+      "class": "js-switch-form js-section u-viewport-fit",
+      "bodyClass": "is-white",
+      "currentClass": "",
+      "route": "contact-us",
+      "content": {
+        "tailorMade": {
+          "title": {
+            "line1": "Contact us",
+            "line2": "Bespoke form"
+          },
+          "desc": "Navigate through this short form that will help us in responding more efficiently. (estimated completion time : 25 seconds)",
+          "label": "Start"
+        },
+        "classic": {
+          "title": {
+            "line1": "Contact us",
+            "line2": "Contact form"
+          },
+          "desc": "Leave us a message and we will be in touch!",
+          "label": "Get in touch"
+        },
+        "form": {
+          "tailorMade": {
+            "action": "..\/formsend.php",
+            "goToClassic": "Go to contact form",
+            "labelThanks": "Thank you,<br>Your message has been sent",
+            "answer": [
+              {
+                "name": "product",
+                "value": "",
+                "activeClass": ""
+              },
+              {
+                "name": "observation",
+                "value": "",
+                "activeClass": ""
+              },
+              {
+                "name": "frequency",
+                "value": "",
+                "activeClass": ""
+              },
+              {
+                "name": "language",
+                "value": "",
+                "activeClass": ""
+              },
+              {
+                "name": "target",
+                "value": "",
+                "activeClass": ""
+              }
             ],
-            "clients":[
-               {
-                  "id":"luxury",
-                  "name":"Luxury",
-                  "logo":{
-                     "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/luxe-en.png",
-                     "alt":""
+            "total": "07",
+            "list": [
+              {
+                "number": "01",
+                "total": "07",
+                "label": "Which service are you after?",
+                "next": "Next",
+                "radios": [
+                  {
+                    "icon": true,
+                    "label": "Ongoing monitoring",
+                    "question": "product",
+                    "name": "veille-suivie"
                   },
-                  "desc":"",
-                  "label":"",
-                  "link":"http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/luxury\/",
-                  "hasCaseStudy":"false"
-               },
-               {
-                  "id":"industry",
-                  "name":"Industry",
-                  "logo":{
-                     "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/industrie-en.png",
-                     "alt":""
+                  {
+                    "icon": true,
+                    "label": "One-off audit",
+                    "question": "product",
+                    "name": "analyse-ponctuelle"
+                  }
+                ]
+              },
+              {
+                "number": "02",
+                "total": "07",
+                "label": "Which type of analysis will it be used for?",
+                "next": "Next",
+                "radios": [
+                  {
+                    "icon": true,
+                    "label": "Corporate",
+                    "question": "observation",
+                    "name": "veille-corporate"
                   },
-                  "desc":"",
-                  "label":"",
-                  "link":"http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/industry\/",
-                  "hasCaseStudy":"false"
-               },
-               {
-                  "id":"banking-%2F-insurance",
-                  "name":"Banking \/ Insurance",
-                  "logo":{
-                     "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/banque-en.png",
-                     "alt":""
+                  {
+                    "icon": true,
+                    "label": "Product",
+                    "question": "observation",
+                    "name": "veille-produit"
                   },
-                  "desc":"",
-                  "label":"",
-                  "link":"http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/banking-insurance\/",
-                  "hasCaseStudy":"false"
-               },
-               {
-                  "id":"estate",
-                  "name":"Estate",
-                  "logo":{
-                     "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/immo-en.png",
-                     "alt":""
+                  {
+                    "icon": true,
+                    "label": "Industry",
+                    "question": "observation",
+                    "name": "veille-sectorielle"
                   },
-                  "desc":"",
-                  "label":"",
-                  "link":"http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/estate\/",
-                  "hasCaseStudy":"false"
-               },
-               {
-                  "id":"pharmaceutical-industry",
-                  "name":"Pharmaceutical industry",
-                  "logo":{
-                     "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/pharma-en.png",
-                     "alt":""
+                  {
+                    "icon": true,
+                    "label": "Competition Benchmark",
+                    "question": "observation",
+                    "name": "veille-concurrentielle"
                   },
-                  "desc":"",
-                  "label":"",
-                  "link":"http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/pharmaceutical-industry\/",
-                  "hasCaseStudy":"false"
-               },
-               {
-                  "id":"institutions",
-                  "name":"Institutions",
-                  "logo":{
-                     "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/institution-en.png",
-                     "alt":""
+                  {
+                    "icon": true,
+                    "label": "High profile individual",
+                    "question": "observation",
+                    "name": "veille-vip"
+                  }
+                ]
+              },
+              {
+                "number": "03",
+                "total": "07",
+                "label": "On which basis would you like to receive the reports?",
+                "next": "Next",
+                "radios": [
+                  {
+                    "icon": true,
+                    "label": "Real-time alerts",
+                    "question": "frequency",
+                    "name": "temps-reel"
                   },
-                  "desc":"",
-                  "label":"",
-                  "link":"http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/institutions\/",
-                  "hasCaseStudy":"false"
-               },
-               {
-                  "id":"energy",
-                  "name":"Energy",
-                  "logo":{
-                     "src":"http:\/\/veille.reputationsquad.com\/datas\/media\/energie-en.png",
-                     "alt":""
+                  {
+                    "icon": true,
+                    "label": "Daily",
+                    "question": "frequency",
+                    "name": "frequence-jour"
                   },
-                  "desc":"",
-                  "label":"",
-                  "link":"http:\/\/veille.reputationsquad.com\/datas\/en\/clients\/energy\/",
-                  "hasCaseStudy":"false"
-               }
+                  {
+                    "icon": true,
+                    "label": "Weekly",
+                    "question": "frequency",
+                    "name": "frequence-semaine"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Monthly",
+                    "question": "frequency",
+                    "name": "frequence-mois"
+                  }
+                ]
+              },
+              {
+                "number": "04",
+                "total": "07",
+                "label": "Which languages are you after?",
+                "next": "Next",
+                "radios": [
+                  {
+                    "icon": true,
+                    "label": "English",
+                    "question": "language",
+                    "name": "anglais"
+                  },
+                  {
+                    "icon": true,
+                    "label": "French",
+                    "question": "language",
+                    "name": "francais"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Spanish",
+                    "question": "language",
+                    "name": "espagnol"
+                  },
+                  {
+                    "icon": true,
+                    "label": "German",
+                    "question": "language",
+                    "name": "allemand"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Russian",
+                    "question": "language",
+                    "name": "russe"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Chinese",
+                    "question": "language",
+                    "name": "chinois"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Italian",
+                    "question": "language",
+                    "name": "italien"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Portuguese",
+                    "question": "language",
+                    "name": "portugais"
+                  },
+                  {
+                    "icon": false,
+                    "label": "Other",
+                    "question": "language",
+                    "name": "false"
+                  }
+                ]
+              },
+              {
+                "number": "05",
+                "total": "07",
+                "label": "Who should the report be tailored for?",
+                "next": "Next",
+                "radios": [
+                  {
+                    "icon": true,
+                    "label": "C-Suite",
+                    "question": "target",
+                    "name": "direction-generale"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Communications department",
+                    "question": "target",
+                    "name": "direction-communication"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Marketing department",
+                    "question": "target",
+                    "name": "direction-marketing"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Legal department",
+                    "question": "target",
+                    "name": "direction-juridique"
+                  },
+                  {
+                    "icon": true,
+                    "label": "Strategy department",
+                    "question": "target",
+                    "name": "direction-strategique"
+                  },
+                  {
+                    "icon": true,
+                    "label": "HR department",
+                    "question": "target",
+                    "name": "direction-rh"
+                  }
+                ]
+              }
+            ],
+            "end": [
+              {
+                "label": "First Name",
+                "name": "prenom"
+              },
+              {
+                "label": "Last Name",
+                "name": "nom"
+              },
+              {
+                "label": "Email",
+                "name": "email"
+              },
+              {
+                "label": "Suivant"
+              }
+            ],
+            "end2": [
+              {
+                "label": "Company",
+                "name": "entreprise"
+              },
+              {
+                "label": "Your message",
+                "name": "message"
+              },
+              {
+                "label": "Submit"
+              }
             ]
-         }
-      },
-      {
-         "id":13,
-         "name":"section-form",
-         "class":"js-switch-form js-section u-viewport-fit",
-         "bodyClass":"is-white",
-         "currentClass":"",
-         "route":"contact-us",
-         "content":{
-            "tailorMade":{
-               "title":{
-                  "line1":"Contact us",
-                  "line2":"Bespoke form"
-               },
-               "desc":"Navigate through this short form that will help us in responding more efficiently. (estimated completion time : 25 seconds)",
-               "label":"Start"
-            },
-            "classic":{
-               "title":{
-                  "line1":"Contact us",
-                  "line2":"Contact form"
-               },
-               "desc":"Leave us a message and we will be in touch!",
-               "label":"Get in touch"
-            },
-            "form":{
-               "tailorMade":{
-                  "action":"..\/formsend.php",
-                  "goToClassic":"Go to contact form",
-                  "labelThanks":"Thank you,<br>Your message has been sent",
-                  "answer":[
-                     {
-                        "name":"product",
-                        "value":"",
-                        "activeClass":""
-                     },
-                     {
-                        "name":"observation",
-                        "value":"",
-                        "activeClass":""
-                     },
-                     {
-                        "name":"frequency",
-                        "value":"",
-                        "activeClass":""
-                     },
-                     {
-                        "name":"language",
-                        "value":"",
-                        "activeClass":""
-                     },
-                     {
-                        "name":"target",
-                        "value":"",
-                        "activeClass":""
-                     }
-                  ],
-                  "total":"07",
-                  "list":[
-                     {
-                        "number":"01",
-                        "total":"07",
-                        "label":"Which service are you after?",
-                        "next":"Next",
-                        "radios":[
-                           {
-                              "icon":true,
-                              "label":"Ongoing monitoring",
-                              "question":"product",
-                              "name":"veille-suivie"
-                           },
-                           {
-                              "icon":true,
-                              "label":"One-off audit",
-                              "question":"product",
-                              "name":"analyse-ponctuelle"
-                           }
-                        ]
-                     },
-                     {
-                        "number":"02",
-                        "total":"07",
-                        "label":"Which type of analysis will it be used for?",
-                        "next":"Next",
-                        "radios":[
-                           {
-                              "icon":true,
-                              "label":"Corporate",
-                              "question":"observation",
-                              "name":"veille-corporate"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Product",
-                              "question":"observation",
-                              "name":"veille-produit"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Industry",
-                              "question":"observation",
-                              "name":"veille-sectorielle"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Competition Benchmark",
-                              "question":"observation",
-                              "name":"veille-concurrentielle"
-                           },
-                           {
-                              "icon":true,
-                              "label":"High profile individual",
-                              "question":"observation",
-                              "name":"veille-vip"
-                           }
-                        ]
-                     },
-                     {
-                        "number":"03",
-                        "total":"07",
-                        "label":"On which basis would you like to receive the reports?",
-                        "next":"Next",
-                        "radios":[
-                           {
-                              "icon":true,
-                              "label":"Real-time alerts",
-                              "question":"frequency",
-                              "name":"temps-reel"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Daily",
-                              "question":"frequency",
-                              "name":"frequence-jour"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Weekly",
-                              "question":"frequency",
-                              "name":"frequence-semaine"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Monthly",
-                              "question":"frequency",
-                              "name":"frequence-mois"
-                           }
-                        ]
-                     },
-                     {
-                        "number":"04",
-                        "total":"07",
-                        "label":"Which languages are you after?",
-                        "next":"Next",
-                        "radios":[
-                           {
-                              "icon":true,
-                              "label":"English",
-                              "question":"language",
-                              "name":"anglais"
-                           },
-                           {
-                              "icon":true,
-                              "label":"French",
-                              "question":"language",
-                              "name":"francais"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Spanish",
-                              "question":"language",
-                              "name":"espagnol"
-                           },
-                           {
-                              "icon":true,
-                              "label":"German",
-                              "question":"language",
-                              "name":"allemand"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Russian",
-                              "question":"language",
-                              "name":"russe"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Chinese",
-                              "question":"language",
-                              "name":"chinois"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Italian",
-                              "question":"language",
-                              "name":"italien"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Portuguese",
-                              "question":"language",
-                              "name":"portugais"
-                           },
-                           {
-                              "icon":false,
-                              "label":"Other",
-                              "question":"language",
-                              "name":"false"
-                           }
-                        ]
-                     },
-                     {
-                        "number":"05",
-                        "total":"07",
-                        "label":"Who should the report be tailored for?",
-                        "next":"Next",
-                        "radios":[
-                           {
-                              "icon":true,
-                              "label":"C-Suite",
-                              "question":"target",
-                              "name":"direction-generale"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Communications department",
-                              "question":"target",
-                              "name":"direction-communication"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Marketing department",
-                              "question":"target",
-                              "name":"direction-marketing"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Legal department",
-                              "question":"target",
-                              "name":"direction-juridique"
-                           },
-                           {
-                              "icon":true,
-                              "label":"Strategy department",
-                              "question":"target",
-                              "name":"direction-strategique"
-                           },
-                           {
-                              "icon":true,
-                              "label":"HR department",
-                              "question":"target",
-                              "name":"direction-rh"
-                           }
-                        ]
-                     }
-                  ],
-                  "end":[
-                     {
-                        "label":"First Name",
-                        "name":"prenom"
-                     },
-                     {
-                        "label":"Last Name",
-                        "name":"nom"
-                     },
-                     {
-                        "label":"Email",
-                        "name":"email"
-                     },
-                     {
-                        "label":"Suivant"
-                     }
-                  ],
-                  "end2":[
-                     {
-                        "label":"Company",
-                        "name":"entreprise"
-                     },
-                     {
-                        "label":"Your message",
-                        "name":"message"
-                     },
-                     {
-                        "label":"Submit"
-                     }
-                  ]
-               },
-               "classic":{
-                  "action":"..\/formsend.php",
-                  "labelThanks":"Thank you,<br>Your message has been sent",
-                  "list":[
-                     {
-                        "label":"Your Email",
-                        "name":"email"
-                     },
-                     {
-                        "label":"Your message",
-                        "name":"message"
-                     },
-                     {
-                        "label":"Submit"
-                     }
-                  ]
-               }
-            }
-         }
+          },
+          "classic": {
+            "action": "..\/formsend.php",
+            "labelThanks": "Thank you,<br>Your message has been sent",
+            "list": [
+              {
+                "label": "Your Email",
+                "name": "email"
+              },
+              {
+                "label": "Your message",
+                "name": "message"
+              },
+              {
+                "label": "Submit"
+              }
+            ]
+          }
+        }
       }
-   ],
-   "mentions":{
-      "titleOne":"Credits",
-      "descOne":"Designed & developed by IMMERSIVE GARDEN and Reputation Squad",
-      "titleTwo":"Legals",
-      "descTwo":[
-         {
-            "value":"<p>This website, accessible at the URL www.veille.reputationsquad.com (hereafter the \u201cwebsite\u201d) is produced by the company Reputation Squad S.A.S. with 90,000 euros in capital. Reputation Squad S.A.S has its headquarters at 43 rue Beaubourg 75003 Paris, France, and is registered with the RCS de Paris under the number 513 676 072 (TVA intracommunautaire number : FR92513676072).<\/p>\r\n<p>Telephone : +33 (0)1 83 62 25 69<\/p>\r\n<p>The Director of the website\u2019s publication is Fabrice Ivara.<\/p>\r\n<p>The host of the website is: OVH, Headquarters : 2 rue Kellermann \u2013 59100 Roubaix \u2013 France.<\/p>\r\n<p>CNIL declarations n\u00b01447656 et n\u00b01456440<\/p>"
-         }
-      ]
-   }
+    }
+  ],
+  "mentions": {
+    "titleOne": "Credits",
+    "descOne": "Designed & developed by IMMERSIVE GARDEN and Reputation Squad",
+    "titleTwo": "Legals",
+    "descTwo": [
+      {
+        "value": "<p>This website, accessible at the URL www.veille.reputationsquad.com (hereafter the \u201cwebsite\u201d) is produced by the company Reputation Squad S.A.S. with 90,000 euros in capital. Reputation Squad S.A.S has its headquarters at 43 rue Beaubourg 75003 Paris, France, and is registered with the RCS de Paris under the number 513 676 072 (TVA intracommunautaire number : FR92513676072).<\/p>\r\n<p>Telephone : +33 (0)1 83 62 25 69<\/p>\r\n<p>The Director of the website\u2019s publication is Fabrice Ivara.<\/p>\r\n<p>The host of the website is: OVH, Headquarters : 2 rue Kellermann \u2013 59100 Roubaix \u2013 France.<\/p>\r\n<p>CNIL declarations n\u00b01447656 et n\u00b01456440<\/p>"
+      }
+    ]
+  }
 }
