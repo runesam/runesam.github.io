@@ -104,7 +104,7 @@
       "class": "js-section c-section--dark u-viewport-fit",
       "bodyClass": "is-black is-quote is-scroll",
       "currentClass": "",
-      "route": "online-monitoring",
+      "route": "about_me",
       "content": {
         "class": {
           "wrapper": "",
@@ -113,7 +113,7 @@
         },
         "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M51.6,37.1c-6.3,0-11.4,5.1-11.4,11.4c0,2.1,0.6,4.1,1.6,5.7L34,62c-0.5,0.5-0.8,1.2-0.8,2c0,0.7,0.3,1.4,0.8,2c0.5,0.5,1.2,0.8,2,0.8c0.7,0,1.4-0.3,2-0.8l7.8-7.8c1.7,1,3.7,1.7,5.9,1.7c6.3,0,11.4-5.1,11.4-11.4C63,42.2,57.9,37.1,51.6,37.1z M37.2,65.2c-0.3,0.3-0.8,0.5-1.2,0.5c-0.5,0-0.9-0.2-1.2-0.5c-0.3-0.3-0.5-0.8-0.5-1.2s0.2-0.9,0.5-1.2l7.6-7.6c0.7,0.9,1.5,1.7,2.4,2.4L37.2,65.2z M51.6,58.8c-5.7,0-10.3-4.6-10.3-10.3c0-5.7,4.6-10.3,10.3-10.3s10.3,4.6,10.3,10.3C61.9,54.1,57.3,58.8,51.6,58.8z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
         "title": "<span class='is-anim-t-0 is-anim-b-3'>I Never wanted<\/span><span class='is-anim-t-1 is-anim-b-4'>to be javascript developer<\/span>",
-        "desc": "At the time when I attended computer science back there in EGYPT, I have been fascinated with the  image proccing and animation apps (PS, AE and most of Adobe applications at the time) and as I gave more attention to the animation part there was that thing of \"expressions\" like script you type and the animation goes off :) and I had a need to know more about it, so as it was based on javascript; I decided to learn it. And ever since I never come back.."
+        "desc": "At the time when I attended computer science back there in EGYPT, I have been fascinated with the  image proccing and animation apps (PS, AE and most of Adobe applications at the time) and as I gave more attention to the animation part there was that thing of \"expressions\" like script you type and the animation goes off :) and I had a need to know more about it, so as it was based on javascript; I decided to learn it. And ever since I never come back."
       }
     },
     {
@@ -130,8 +130,8 @@
           "paragraph": "u-w3of4 u-inline-block u-w3of3@sm"
         },
         "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M63.3,63.2l-7.7-14c0.4-0.8,0.6-1.7,0.6-2.7c0-2.9-2.2-5.4-5-5.8l1.2-0.7v-6.3l-2.2-1.3l-2.2,1.3v6.3l1.3,0.7c-2.7,0.5-4.8,2.9-4.8,5.7c0,1,0.3,1.9,0.7,2.8l-6.5,9.8c-1,0.6-1.7,1.8-1.7,3c0,1.7,1.1,3.1,2.7,3.5l0.7,3l1-2.9c1.6-0.3,2.8-1.8,2.8-3.5c0-0.7-0.2-1.3-0.5-1.8l5.1-8.1c0.5,0.1,1,0.2,1.5,0.2c0.6,0,1.1-0.1,1.6-0.2L60.6,68L63.3,63.2z M49.2,34.4l1.1-0.6l1.1,0.6v5l-1.1,0.6l-1.1-0.6V34.4z M40.8,64.6c-1.4,0-2.5-1.1-2.5-2.5s1.1-2.5,2.5-2.5c1.4,0,2.5,1.1,2.5,2.5S42.2,64.6,40.8,64.6z M43.2,59.4c-0.6-0.6-1.5-0.9-2.4-0.9c-0.1,0-0.2,0-0.3,0l5.5-8.3c0.5,0.6,1.2,1.2,1.9,1.5L43.2,59.4z M45.7,46.5c0-2.6,2.1-4.8,4.8-4.8c2.6,0,4.8,2.1,4.8,4.8c0,2.6-2.1,4.8-4.8,4.8C47.9,51.3,45.7,49.2,45.7,46.5z M55,50.2l7.1,13l-1.5,2.6l-7.5-14C53.8,51.4,54.5,50.9,55,50.2z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
-        "title": "<span class='is-anim-t-0 is-anim-b-3'>Of tools<\/span><span class='is-anim-t-1 is-anim-b-4'>and men<\/span>",
-        "desc": "Monitoring is only relevant through the analysis of the findings - we firmly believe that an automated process isn\u2019t enough. Although the selection of the tools most appropriate to your issues is certainly important, it is the analysis from our multidisciplinary team specialised in complex corporate issues that provide the true value of our service."
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>good choices<\/span><span class='is-anim-t-1 is-anim-b-4'>makes difference<\/span>",
+        "desc": "The JavaScript got me and I like what I can do with. now I work as a front-end developer in Turkey and I am improving myself every day forward to keep up with what is new. With that being said; that takes you to the new mission of picking the right technology which fits your needs."
       }
     },
     {
@@ -148,8 +148,8 @@
           "paragraph": ""
         },
         "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\"viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M49.8,62.4c-7.3,0-13.2-5.9-13.2-13.2s5.9-13.2,13.2-13.2S63,42,63,49.3c0,1.6-0.3,3.2-0.9,4.8l-1-0.4c0.5-1.4,0.8-2.9,0.8-4.4c0-6.7-5.4-12.1-12.1-12.1s-12.1,5.4-12.1,12.1s5.4,12.1,12.1,12.1c1.1,0,2.1-0.1,3.2-0.4l0.3,1C52.1,62.3,51,62.4,49.8,62.4z\"\\\/><path d=\"M62,58.6C62.1,58.6,62.1,58.6,62,58.6L62,58.6L62,58.6z\"\\\/><polygon points=\"63.6,57 52.2,52.7 56.6,64 57.8,60.3 61.3,63.8 63.4,61.8 59.9,58.3\"\\\/><path d=\"M49.1,48.9c-0.3,0.7,0.4,1.5,1.1,1.1c0.2-0.1,0.3-0.2,0.4-0.4c0.3-0.7-0.4-1.5-1.1-1.1C49.3,48.6,49.1,48.7,49.1,48.9z\"\\\/><path stroke-width=\"2\" stroke-miterlimit=\"10\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
-        "title": "<span class='is-anim-t-0 is-anim-b-3'>Monitor<\/span><span class='is-anim-t-1 is-anim-b-4'>to act<\/span>",
-        "desc": "To us, monitoring is but a part of the decision-making process. Tired of these report you struggle to find a use for? Be it for detecting opportunities or control a crisis, our alerts and reports help you understand the situations and guide you as to how you should react."
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>where<\/span><span class='is-anim-t-1 is-anim-b-4'>am I!<\/span>",
+        "desc": "Now as I am using it already in production and in few frameworks (angular, react and react native) I felt a need to teach other what I know. especially those who doesn't speak English back there in Egypt. So; I wanted to be more professional about what I do or what I think I'm doing so I feel more confident about teaching others."
       }
     },
     {
@@ -166,8 +166,8 @@
           "paragraph": "u-w2of3 u-inline-block u-w3of3@sm"
         },
         "icon": "<svg version=\"1.1\" xmlns=\"http:\\\/\\\/www.w3.org\\\/2000\\\/svg\" xmlns:xlink=\"http:\\\/\\\/www.w3.org\\\/1999\\\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><path d=\"M59.1,43.5c-0.4-1.9-1.5-3.7-2.8-5c-1.6-1.5-3.7-2.3-6.1-2.3l-0.1,0v0c-5.1,0-8.2,3.7-9,7.3c-0.7,3.2,0.7,5.5,2,7.6c0.8,1.2,1.5,2.4,1.6,3.6c0,0.2,0,0.5,0.1,0.7c0.2,2.4,0.4,4.2,1.7,4.9c0,0,0,0.1,0,0.1v0l0.4,3.1c0,1,0.7,1.8,1.6,1.8h3.2c0.9,0,1.6-0.8,1.6-1.8l0.4-2.9l0-0.1c0,0,0-0.1,0-0.1c1.3-0.6,1.5-2.5,1.7-4.9c0-0.2,0-0.4,0.1-0.6c0.1-1.2,0.9-2.4,1.6-3.7C58.4,49,59.8,46.6,59.1,43.5z M52.2,63.3L52.2,63.3c0,0.5-0.3,0.9-0.6,0.9h-3.2c-0.3,0-0.6-0.4-0.6-0.8v0l-0.3-2.8c0.2,0,0.3,0.1,0.5,0.1H52c0.2,0,0.4,0,0.5-0.1L52.2,63.3z M56.2,50.5c-0.8,1.4-1.6,2.7-1.8,4.1c0,0.2,0,0.4-0.1,0.6c-0.3,3.3-0.6,4.1-1.8,4.1c-1.8,0.1-2.4,0-2.4,0l0,0.1l0-0.1c0,0-0.6,0.1-2.5,0c-1.2,0-1.4-1-1.8-4.2c0-0.2,0-0.4-0.1-0.7c-0.2-1.4-0.9-2.7-1.8-4c-1.2-2-2.5-4-1.9-6.8c0.4-1.7,1.3-3.3,2.5-4.4c1.4-1.3,3.3-2,5.4-2c4.8,0,7.2,3.5,7.9,6.5C58.6,46.4,57.4,48.5,56.2,50.5z\"\\\/><path stroke=\"#000000\" stroke-width=\"2\" class=\"stroke\" d=\"M50.1,1.5C23.3,1.5,1.6,23.2,1.6,49.9s21.7,48.5,48.5,48.5s48.5-21.7,48.5-48.5S76.8,1.5,50.1,1.5z\"\\\/><\\\/svg>",
-        "title": "<span class='is-anim-t-0 is-anim-b-3'>Bringing<\/span><span class='is-anim-t-1 is-anim-b-4'>actionable insights<\/span>",
-        "desc": "The monitoring team is entirely integrated into Reputation Squad, the online communications and reputation management agency. With a team of 45 encompassing 7 areas of expertise (PR & communications consultants, lawyers, monitoring experts, social media managers, digital strategists, graphic designers, web developers) spread between London and Paris, we are able to help you transform your monitoring report into an action plan."
+        "title": "<span class='is-anim-t-0 is-anim-b-3'>fight<\/span><span class='is-anim-t-1 is-anim-b-4'>to reach light<\/span>",
+        "desc": "Stupid title I like a lot; I don't like to ask others for help, oh,,, let me rephrase that; I HATE TO ASK OTHERS FOR HELP, I like to search and dig harder to find what I need. I love trying new stuff. And actually this what I like most about coding; that you get to see result after coding it down."
       }
     },
     {
@@ -179,9 +179,9 @@
       "route": "services",
       "content": {
         "number": "01.",
-        "title": "Custom monitoring solutions",
+        "title": "WHAT CAN I DO FOR YOU",
         "img": {
-          "src": "http:\/\/veille.reputationsquad.com\/datas\/media\/reputationsquad-team-veille.jpg",
+          "src": "https:\/\/runesam.github.io\/assets\/images\/runesam_view.jpg",
           "alt": ""
         }
       }
