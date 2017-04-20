@@ -1,10 +1,17 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE HTML>
+<html lang="en">
   <head>
+    <title>WebGL Globe</title>
     <meta charset="utf-8">
-    <title>front end life</title>
+  <link rel="stylesheet" href="./styles.css">
   </head>
-  <body>
-    hello the fuck world
+  <body class="is-disable-scroll" data-lang="fr" data-base="/datas/" data-json="datas/global.json">
+    <my-application></my-application>
+    <!-- <script type="text/javascript" src="/veille/three.js"></script> -->
+    <script type="text/javascript" src="./app.js"></script>
+    <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+    <script type="text/javascript">
+    function ga (){$(window).on("hashchange",function(){"references"==location.hash.slice(1)&&ga("send","event","navigation","scroll","FR-rÃ©fÃ©rences"),"case-studies"==location.hash.slice(1)&&ga("send","event","navigation","scroll","EN-case-studies")}),$(document).on("mousedown touchstart pointerdown",".c-btn-quote__inner",function(){ga("send","event","button","click","devis")}),$(document).on("mousedown touchstart pointerdown",'a[data-form="classic"]',function(){ga("send","event","button","click","form-classic-enter")}),$(document).on("click","section-form-classic button",function(){var n=$("input[name=email]").val();ga("send","event","button","click","form-classic-send"),heap.identify({email:n})}),$(document).on("mousedown touchstart pointerdown",'a[data-form="tailorMade"]',function(){ga("send","event","button","click","form-custom-enter")}),$(document).on("click","section-form-tailor-made button",function(){var n=$("input[name=first_name]").val(),e=$("input[name=last_name]").val(),o=$("input[name=email]").val(),t=$("input[name=entreprise]").val();ga("send","event","button","click","form-custom-send"),heap.identify({name:n,prenom:e,email:o,entreprise:t})})};
+    </script>
   </body>
 </html>
