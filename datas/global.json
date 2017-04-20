@@ -6,12 +6,12 @@
   },
   "nav": [
     {
-      "label": "Home",
+      "label": "Hi THERE",
       "route": "#home"
     },
     {
-      "label": "Online monitoring",
-      "route": "#online-monitoring"
+      "label": "About ME",
+      "route": "#about_me"
     },
     {
       "label": "Our services",
