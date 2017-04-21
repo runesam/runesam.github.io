@@ -72648,7 +72648,7 @@ exports['default'] = SectionOffreIntro;
 module.exports = exports['default'];
 
 },{"../../utilities/browserSupport.js":151,"./template":122,"scriptease":12}],122:[function(require,module,exports){
-module.exports = "<div class=\"is-animate is-anim-img u-absolute u-pos-tl u-fit u-overflow-h\">\n    <div class=\"is-anim-img__content u-absolute u-pos-tl u-fit\">\n        <core-object-fit type=\"cover\" height=\"1069\" width=\"1600\" class=\"u-absolute u-pos-tl\" style=\"perspective: 2560px;\">\n   </core-object-fit>\n    </div>\n</div>\n<div class=\"o-wrapper o-wrapper--fit o-wrapper--valign\">\n    <div class=\"is-animate is-anim-t-0 is-anim-b-5 u-inline-block u-valign-middle u-w1of3 u-w2of3@lg u-offset-w1of12\">\n        <h1 class=\"h1\">{{content.title}}</h1>\n    </div>\n</div>\n";
+module.exports = "<div class=\"is-animate is-anim-img u-absolute u-pos-tl u-fit u-overflow-h\">\n    <div class=\"is-anim-img__content u-absolute u-pos-tl u-fit\">\n        <core-object-fit type=\"cover\" height=\"1069\" width=\"1600\" class=\"u-absolute u-pos-tl\" style=\"perspective: 2560px;\">\n  <img src=\"{{content.img.src}}\" alt=\"{{content.img.alt}}\" class=\"js-img o-wrapper--fit\"> </core-object-fit>\n    </div>\n</div>\n<div class=\"o-wrapper o-wrapper--fit o-wrapper--valign\">\n    <div class=\"is-animate is-anim-t-0 is-anim-b-5 u-inline-block u-valign-middle u-w1of3 u-w2of3@lg u-offset-w1of12\">\n        <h1 class=\"h1\">{{content.title}}</h1>\n    </div>\n</div>\n";
 
 },{}],123:[function(require,module,exports){
 'use strict';
